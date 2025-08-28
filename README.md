@@ -1,7 +1,7 @@
 <h1 align="center">🧩 LeetCode Solutions</h1>
 
 <p align="center">
-  <strong>My collection of solved LeetCode problems</strong><br>
+  <strong>My collection of solved LeetCode problems </strong><br>
   Written in <code>Python</code> with clean and efficient solutions
 </p>
 
