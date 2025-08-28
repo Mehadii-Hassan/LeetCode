@@ -23,9 +23,6 @@ and prepare for <strong>coding interviews</strong>.
 
 <hr>
 
-
-<hr>
-
 <h2>🎯 Goals</h2>
 
 <ul>
